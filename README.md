@@ -1,3 +1,8 @@
+# Steps After Clone
+
+## 1.Yarn Install
+## 2.Yarn Start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
